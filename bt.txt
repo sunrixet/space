@@ -4,7 +4,7 @@
  外网ipv4面板地址: https://4.240.18.226:11133/a27f3ec4
  内网面板地址:     https://10.0.1.125:11133/a27f3ec4
  username: r7sbepyi
- password: 888decdb
+ password: e4c217e2
 
  浏览器访问以下链接，添加宝塔客服
  https://www.bt.cn/new/wechat_customer
